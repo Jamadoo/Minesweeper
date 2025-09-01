@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/02/16 08:42:55.000.012,=C:\Users\10aberrangej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/16 08:43:11.000.686,D:\Delphi Saves\Minesweeper\Minesweeper.pas=C:\Users\10aberrangej\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/02/16 08:43:11.000.686,D:\Delphi Saves\Minesweeper\Minesweeper.dfm=C:\Users\10aberrangej\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/02/16 08:43:16.000.095,D:\Delphi Saves\Minesweeper\Miesweeper_p.dproj=C:\Users\10aberrangej\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
